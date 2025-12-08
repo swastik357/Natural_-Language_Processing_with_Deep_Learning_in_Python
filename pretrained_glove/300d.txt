@@ -1,0 +1,75 @@
+Loading word vectors...
+Found 400000 word vectors.
+king - man = queen - woman
+france - paris = britain - london
+france - paris = italy - rome
+paris - france = rome - italy
+france - french = england - english
+japan - japanese = china - chinese
+japan - japanese = italy - italian
+japan - japanese = australia - australian
+december - november = april - june
+miami - florida = dallas - texas
+einstein - scientist = picasso - painter
+china - rice = chinese - bread
+man - woman = he - she
+man - woman = uncle - aunt
+man - woman = brother - sister
+man - woman = brother - wife
+man - woman = actor - actress
+man - woman = father - mother
+heir - heiress = prince - princess
+nephew - niece = uncle - aunt
+france - paris = japan - tokyo
+france - paris = china - beijing
+february - january = october - november
+france - paris = italy - rome
+paris - france = rome - italy
+neighbors of: king
+	queen
+	prince
+	monarch
+	kingdom
+	throne
+neighbors of: france
+	french
+	paris
+	belgium
+	spain
+	italy
+neighbors of: japan
+	japanese
+	tokyo
+	korea
+	china
+	asia
+neighbors of: einstein
+	relativity
+	bohr
+	physicists
+	heisenberg
+	sigmund
+neighbors of: woman
+	girl
+	man
+	mother
+	she
+	her
+neighbors of: nephew
+	brother
+	cousin
+	grandson
+	uncle
+	son
+neighbors of: february
+	october
+	december
+	january
+	november
+	april
+neighbors of: rome
+	italy
+	naples
+	turin
+	venice
+	roman
