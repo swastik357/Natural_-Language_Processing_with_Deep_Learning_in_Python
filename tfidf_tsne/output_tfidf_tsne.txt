@@ -1,0 +1,17 @@
+closest match by euclidean distance: jesus
+king - man = jesus - woman
+closest match by cosine distance: river
+king - man = river - woman
+closest match by euclidean distance: huxley
+france - paris = huxley - london
+closest match by cosine distance: heard
+france - paris = heard - london
+closest match by euclidean distance: natural
+france - paris = natural - rome
+closest match by cosine distance: complex
+france - paris = complex - rome
+closest match by euclidean distance: banks
+paris - france = banks - italy
+closest match by cosine distance: above
+paris - france = above - italy
+
