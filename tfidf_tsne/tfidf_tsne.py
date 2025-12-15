@@ -80,7 +80,8 @@ def main():
     plt.scatter(Z[:,0], Z[:,1])
     for i in range(V):
         try:
-            plt.annotate(s=idx2word[i].encode("utf8").decode("utf8"), xy=(Z[i,0], Z[i,1]))
+            plt.annotate(idx2word[i].encode("utf8").decode("utf8"), xy=(Z[i,0], Z[i,1]))
+            #print("printing word   ", idx2word[i].encode("utf8").decode("utf8"))
         except:
             print("bad string:", idx2word[i])
     plt.draw()
